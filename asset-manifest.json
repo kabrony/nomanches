@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kabrony.github.io/nomanches/static/css/main.073c9b0a.css",
+    "main.js": "/kabrony.github.io/nomanches/static/js/main.7581fde9.js",
+    "static/js/787.054c5068.chunk.js": "/kabrony.github.io/nomanches/static/js/787.054c5068.chunk.js",
+    "static/media/logo.svg": "/kabrony.github.io/nomanches/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kabrony.github.io/nomanches/index.html",
+    "main.073c9b0a.css.map": "/kabrony.github.io/nomanches/static/css/main.073c9b0a.css.map",
+    "main.7581fde9.js.map": "/kabrony.github.io/nomanches/static/js/main.7581fde9.js.map",
+    "787.054c5068.chunk.js.map": "/kabrony.github.io/nomanches/static/js/787.054c5068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7581fde9.js"
+  ]
+}
